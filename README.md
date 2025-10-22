@@ -18,4 +18,4 @@
 - 💬 Ask me about CV, LLM, PR,...
 
 
-⭐️ From [DanielWay17](https://github.com/DanielWay17)
+⭐️ Check out my other GitHub profile: [DanielWay2k3](https://github.com/danielway2k3)
