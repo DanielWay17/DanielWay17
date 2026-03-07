@@ -1,21 +1,31 @@
-# Hello, I'm Daniel Way 😄
+# Hello there 👋
 
-👨‍💻 A simple guy who loves coding and sharing
-🚀 On my way to MLOps Engineering, Data Scientist
+I'm **Nguyen Cong Tien Dung** — an **AI Engineer** interested in building intelligent systems using **Agentic AI, LLM applications, and MLOps**.
 
+I enjoy designing and developing AI systems that can **reason, interact with tools, and operate in real-world workflows**.
 
-## Connect with me:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielway17/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/danielway)
+## 👨‍💻 About Me
 
-## About Me
+* 🎓 Studying at **VNUHCM – University of Science (HCMUS)**
+* 📍 Based in **Thu Duc District, Ho Chi Minh City**
+* 🤖 Interested in **Machine Learning, Computer Vision, and Pattern Recognition**
+* 🧠 Always learning new technologies and building practical projects
+* 🔬 Exploring **MLOps and AI system deployment**
 
-- 🌆 Based in Thu Duc district, Ho Chi Minh city.
-- 🏢 I'm currently studying in VNU - HCMUS
-- 💼 Currently working on exciting projects in MLOps and Data Scient.
-- 🌱 Always learning and exploring new technologies.
-- 💬 Ask me about CV, LLM, PR,...
+---
 
+## 🌐 Connect with Me
 
-⭐️ Check out my other GitHub profile: [DanielWay2k3](https://github.com/danielway2k3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dung-nguyen-cong-tien-811788218/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com/danielway)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DanielWay17\&theme=auto\&hide_border=false\&include_all_commits=true\&count_private=true\&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielWay17)](https://git.io/streak-stats)
+
