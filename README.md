@@ -25,7 +25,6 @@ I enjoy designing and developing AI systems that can **reason, interact with too
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DanielWay17\&theme=auto\&hide_border=false\&include_all_commits=true\&count_private=true\&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielWay17)](https://git.io/streak-stats)
-
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielWay17&theme=nord" />
+<p>
